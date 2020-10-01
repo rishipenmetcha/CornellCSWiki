@@ -63,3 +63,4 @@ Contributors, listed by month of first contribution:
 ## Fall 2020
 
 - Andrew Gao <3
+- Rishi Penmetcha
